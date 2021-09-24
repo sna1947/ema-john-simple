@@ -1,0 +1,19 @@
+.product-container{
+    display: flex;
+    padding: 10px;
+    color: blue;
+    font-weight: 400;
+    border-bottom: 1px solid rgb(197, 193, 164);
+}
+.image{
+    margin-right: 30px;
+}
+.btn-addTocart{
+    background-color: rgb(223, 197, 49);
+    font-size: large;
+    border-radius: 5px;
+    padding: 5px;
+    width: 200px;
+    border: cornsilk;
+    cursor: pointer;
+}

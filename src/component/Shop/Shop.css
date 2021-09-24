@@ -1,0 +1,23 @@
+.shop-container{
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    background-color: rgb(253, 253, 253);
+    
+}
+.product-continer{
+    margin-left: 50px;
+    /* border-bottom: 1px solid rgb(197, 193, 164); */
+}
+.cart-container{
+    padding: 5px;
+    margin-left: 5px;
+    border-left: 1px solid rgb(197, 193, 164);
+}
+.all-product{
+    text-align: center;
+    background-color: rgb(232, 240, 123);
+    border-bottom: 10px solid grey;
+    padding: 3px;
+    
+
+}
